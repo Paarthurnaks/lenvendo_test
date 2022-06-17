@@ -1,0 +1,17 @@
+{
+    "name": "lenvendo/lenvendo",
+    "description": "Библиотека для тестового задания lenvendo",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Lenvendo\\Lenvendo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel Sidorenko",
+            "email": "paul129@yandex.ru"
+        }
+    ],
+    "require": {}
+}
